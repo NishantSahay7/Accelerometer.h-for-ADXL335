@@ -3,6 +3,8 @@
 
 int get_degree(int p)
 {
+	//For the values per change in degree make sure to check it with the acccelerometer which you choose
+	
 	int x,y,z,dx,dy,dz;	//x,y,z are the 3 axes, and the dx,dy,dz are the degrees in each cordinate,for example dx=degree in x cordinate
 	
 	if(p==1)
