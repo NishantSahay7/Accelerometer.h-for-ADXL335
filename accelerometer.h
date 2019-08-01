@@ -1,6 +1,9 @@
 #ifndef ACCELEROMETER_H
 #define ACCELEROMETER_H
 
+#define x 1
+#define y 2
+#define z 3
 int get_degree(int p)
 {
 	//For the values per change in degree make sure to check it with the acccelerometer which you choose
