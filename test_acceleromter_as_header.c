@@ -25,11 +25,11 @@ int main()
 	lcd_clear();	//clearing the screen of LCD
 	
 	
-	dx=get_degree(1);	//for getting the degree value of x cordinate
+	dx=get_degree(x);	//for getting the degree value of x cordinate
 	
-	dy=get_degree(2);	//for getting the degree value of y cordinate
+	dy=get_degree(y);	//for getting the degree value of y cordinate
 	
-	dz=get_degree(3);	//for getting the degree value of z cordinate
+	dz=get_degree(z);	//for getting the degree value of z cordinate
 
 	
 	
